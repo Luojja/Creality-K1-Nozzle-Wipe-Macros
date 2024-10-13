@@ -1,3 +1,5 @@
+Последняя версия: https://github.com/Luojja/Creality-K1-Config
+
 Макрос очистки сопла, копия стандартной команды NOZZLE_CLEAR без команд от Creality
 
 Актуально для тех, кто использует load_cell_probe по этой инструкции: https://github.com/cryoz/K1_tenso_manual
